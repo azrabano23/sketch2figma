@@ -1,1 +1,1 @@
-# sketch2figma
+# sketch2react
